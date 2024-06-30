@@ -1,4 +1,4 @@
-# le (*Line-Editor*)
+# le (*Line Editor*)[^1]
 
 A simple terminal line editor written in `bash`.
 
@@ -16,3 +16,5 @@ chmod +x le
 ```
 
 Place `le` under any directory in your `$PATH` variable.
+
+[^1]: I'm okay with generic names.
