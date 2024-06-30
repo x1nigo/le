@@ -1,4 +1,4 @@
-# le (*line editor*)
+# le (*Line-Editor*)
 
 A simple terminal line editor written in `bash`.
 
