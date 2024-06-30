@@ -15,4 +15,4 @@ cd le
 chmod +x le
 ```
 
-Place `le` in any directory in your `$PATH` variable.
+Place `le` under any directory in your `$PATH` variable.
