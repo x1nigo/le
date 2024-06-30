@@ -17,4 +17,4 @@ chmod +x le
 
 Place `le` under any directory in your `$PATH` variable.
 
-[^1]: I'm okay with generic names.
+[^1]: Inspired by the `ed` command as a minimal line editor.
