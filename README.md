@@ -15,6 +15,6 @@ cd le
 chmod +x le
 ```
 
-Place `le` under any directory in your `$PATH` variable.
+- Place `le` under any directory in your `$PATH` variable.
 
 [^1]: Inspired by the `ed` command as a minimal line editor.
